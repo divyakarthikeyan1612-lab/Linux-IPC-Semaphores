@@ -127,10 +127,10 @@ int main() {
 ## OUTPUT
 $ ./sem.o 
 
-![image](<Screenshot at 2026-03-09 11-42-00.png>)
+![image](image/image1.1.png)
 $ ipcs
 
-![image](<Screenshot at 2026-03-09 11-42-47.png>)
+![image](image/image1.2.png)
 
 
 
